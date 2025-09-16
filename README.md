@@ -14,7 +14,7 @@ Client-server chat applications are software systems that enable real-time commu
 
 ## 1. Client-Server Model :
 
-### Server:
+### Server :
 
 •	The server is a central component that listens for incoming connections from clients.
 
@@ -22,7 +22,7 @@ Client-server chat applications are software systems that enable real-time commu
 
 •	It may handle user authentication, message routing, and other core functionalities.
 
-### Client:
+### Client :
 
 •	Clients are users or devices that connect to the server to participate in the chat.
 
@@ -48,13 +48,13 @@ Client-server chat applications are software systems that enable real-time commu
 
 ## 3. Socket Programming :
 
-### Sockets:
+### Sockets :
 
 •	Sockets serve as communication endpoints.
 
 •	Each client and the server has a socket for sending and receiving data.
 
-•	Functions:
+•	Functions :
 
 •	Socket programming involves functions for creating, binding, listening, accepting connections, and sending/receiving data through sockets.
 
@@ -100,16 +100,16 @@ User authentication mechanisms are essential to ensure secure and authorized acc
 #### 1.	Concurrency and Multithreading:
 •	Chat applications often require handling multiple connections simultaneously. The server must be designed to support concurrency, commonly achieved through multithreading or asynchronous programming.
 
-#### 2.	Security:
+#### 2.	Security :
 •	Ensuring the security of user data and messages is paramount. Encryption techniques, such as SSL/TLS, can be implemented to secure data in transit. Proper user authentication mechanisms help prevent unauthorized access.
 
-#### 3.	Scalability:
+#### 3.	Scalability :
 •	As the number of users grows, the chat application must be scalable. This involves optimizing server-side architecture to handle increasing loads efficiently.
 
-#### 4.	Persistence:
+#### 4.	Persistence :
 •	Some chat applications implement message persistence, allowing users to retrieve past messages. This may involve using databases to store and retrieve chat history.
 
-#### 5.	Notification Systems:
+#### 5.	Notification Systems :
 •	Implementing real-time notifications to inform users of new messages, user presence changes, or other relevant events.
 
 Client-server chat applications are versatile tools that facilitate real-time communication between users over a network. They incorporate various components, including server-side and client-side elements, and must consider factors such as security, scalability, and concurrency. As technology continues to advance, client-server chat applications remain integral for collaborative communication in various domains.
@@ -172,7 +172,7 @@ while 1:
 
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/bf70ca56-d578-438f-9c87-a7ee12fd8b2d" />
 
-## SERVER :
+## S
 
 <img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/25d85e99-7c6e-4b18-96d5-e8b92c7ac569" />
 
